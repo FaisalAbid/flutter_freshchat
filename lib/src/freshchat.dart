@@ -1,4 +1,4 @@
-part of firebase_auth;
+part of freshchat;
 
 class FlutterFreshchat {
   static const MethodChannel _channel =
